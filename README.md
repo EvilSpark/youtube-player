@@ -1,12 +1,12 @@
-# To install
+# Installation
 
-npm install
+    npm install
+    npm start
 
-#To Start
+## To-Do
 
-npm start
-
-#To-Do
-
-1. Styling.
-2. Downloader.
+- [x] Create Player.
+- [x] Active Search Bar
+- [ ] Better Styling and no Bootstrap
+- [ ] Adding a downloader
+- [ ] Publishing it in Heroku or somewhere similar
