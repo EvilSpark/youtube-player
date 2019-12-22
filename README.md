@@ -1,5 +1,7 @@
 # Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EvilSpark/youtube-player.svg)](https://greenkeeper.io/)
+
     npm install
     npm start
 
